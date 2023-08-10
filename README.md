@@ -1,7 +1,10 @@
 # Supply Chain Data Analysis for FMCG Company
+## by Virat Gajjar
 
 ## Objective
 In this project, I focused on analyzing supply chain data for a fictional FMCG (Fast-Moving Consumer Goods) company. The project's main objective was to extract valuable insights from various metrics and key performance indicators (KPIs) to help the management team understand the reasons behind non-renewed key customer contracts and develop well-informed strategies for the future.
+
+![name-of-you-image](https://github.com/Virat992/FMCG-Supply-Chain-Analysis/blob/main/Insights/Kpi%20Dashboard.png)
 
 ## Tools Used
 - Microsoft Excel: Utilized for data cleaning, including removing duplicate entries and preparing the dataset for analysis.
